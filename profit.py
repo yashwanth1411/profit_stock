@@ -16,7 +16,7 @@ input_1 =[]
 a = int(input())
 for i in range(a):
     j = int(input())
-    a.append(j)
+    input_1.append(j)
 
 output = max_profit(input_1) 
 
